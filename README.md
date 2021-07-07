@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=79080402)
+<br>
 
 ##  Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :woman: <br>
 
@@ -27,9 +29,8 @@ RStudio Git GitHub Markdown AWS Cloud9 IDE Cloud Databases IBM Watson Studio Jup
 
 Data Visualization Data Cleaning Machine Learning Data Mining CRISP-DM Data Analytics/Analysis Market research Business Intelligence Critical Thinking Presentation Skills Statistics Graph theory Charts Decision-making capabilities Classification & Regression Models/Algorithms Supervised vs. Unsupervised Learning
 <br> 
-<br><br><br>
+<br><br>
 [![Amata's github stats](https://github-readme-stats.vercel.app/api?username=AmataTul)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=79080402)
-<br>
+
+
 
