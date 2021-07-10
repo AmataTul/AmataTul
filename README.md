@@ -8,7 +8,7 @@
 -  🎓 I'm currently studying Management Information Systems at Utah State University with an emphasis on Data Analytics.
 - 💡  I like to explore new technologies and develop data analytics solutions.
 - :telescope: I'm currently working on building my own Portfolio Website.
-- ✍️  In my free time, I try to learn new skills in data analysis and new ways to utilize them through programming languages.
+- ✍️  In my free time, I try to learn new skills in Data Analysis and new ways to utilize them through programming languages.
 - 👀 I’m mostly interested in Data Analytics and Data Science.
 - 📫 You can shoot me an email at amatat.tuleuova@gmail.com! I'll try to respond as soon as I can.
 
