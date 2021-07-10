@@ -26,7 +26,7 @@
 
 :juggling_person: Skills: <br>
 
-&#9702; Data Visualization &#9702; Data Cleaning &#9702; Machine Learning &#9702; Data Mining &#9702; CRISP-DM &#9702; Data Analytics/Analysis &#9702; Market research &#9702; Business Intelligence &#9702; Critical Thinking &#9702; Presentation Skills &#9702; Statistics &#9702; Graph theory &#9702; Charts &#9702; Decision-making capabilities &#9702; Classification & Regression Models/Algorithms &#9702; Supervised vs. Unsupervised Learning
+&#9702; Data Visualization &#9702; Data Cleaning &#9702; Data Preparation &#9702; Model Deployment &#9702; Machine Learning &#9702; Data Mining &#9702; CRISP-DM &#9702; Data Analytics/Analysis &#9702; Market research &#9702; Business Intelligence &#9702; Critical Thinking &#9702; Presentation Skills &#9702; Statistics &#9702; Graph theory &#9702; Charts &#9702; Decision-making capabilities &#9702; Classification & Regression Models/Algorithms &#9702; Supervised vs. Unsupervised Learning
 <br> 
 <br><br>
 [![Amata's github stats](https://github-readme-stats.vercel.app/api?username=AmataTul)](https://github.com/anuraghazra/github-readme-stats)
