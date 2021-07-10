@@ -10,7 +10,6 @@
 - :telescope: I'm currently working on building my own Portfolio Website.
 - ✍️  In my free time, I try to learn new skills in data analysis and new ways to utilize them through programming languages.
 - 👀 I’m mostly interested in Data Analytics and Data Science.
-- 🌱 I’m currently working on building my Portfolio.
 - 📫 You can shoot me an email at amatat.tuleuova@gmail.com! I'll try to respond as soon as I can.
 
 🛠  Programming languages : 
