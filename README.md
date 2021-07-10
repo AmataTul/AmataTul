@@ -16,18 +16,18 @@
 🛠  Programming languages : 
 <br>
 
-SQL NoSQL Python R (beginner: statistics) HTML CSS JavaScript (beginner)
+&#9702; SQL &#9702; NoSQL &#9702; Python &#9702; R (beginner: statistics) &#9702; HTML &#9702; CSS &#9702; JavaScript (beginner)
 <br>
 
 :sparkles: Software: <br>
 
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-Numpy Pandas IPython Matplotlib Scikit-learn Microsoft PowerBi RapidMiner Studio SSMS PostgreSQL Tableau Excel (VLOOKUP, Pivot table) Spreadsheet Firebase
-RStudio Git GitHub Markdown AWS Cloud9 IDE Cloud Databases IBM Watson Studio JupyterLab Jupyter Notebooks Google Analytics
+&#9702; Numpy &#9702; Pandas &#9702; IPython &#9702; Matplotlib &#9702; Scikit-learn &#9702; Microsoft PowerBi &#9702; RapidMiner Studio &#9702; SSMS &#9702; PostgreSQL &#9702; Tableau &#9702; Excel (VLOOKUP, Pivot table) &#9702; Spreadsheet &#9702; Firebase
+&#9702; RStudio &#9702; Git &#9702; GitHub &#9702; Markdown &#9702; AWS &#9702; Cloud9 &#9702; IDE &#9702; Cloud Databases &#9702; IBM Watson Studio &#9702; JupyterLab &#9702; Jupyter Notebook &#9702; Google Analytics
 
 :juggling_person: Skills: <br>
 
-Data Visualization Data Cleaning Machine Learning Data Mining CRISP-DM Data Analytics/Analysis Market research Business Intelligence Critical Thinking Presentation Skills Statistics Graph theory Charts Decision-making capabilities Classification & Regression Models/Algorithms Supervised vs. Unsupervised Learning
+&#9702; Data Visualization &#9702; Data Cleaning &#9702; Machine Learning &#9702; Data Mining &#9702; CRISP-DM &#9702; Data Analytics/Analysis &#9702; Market research &#9702; Business Intelligence &#9702; Critical Thinking &#9702; Presentation Skills &#9702; Statistics &#9702; Graph theory &#9702; Charts &#9702; Decision-making capabilities &#9702; Classification & Regression Models/Algorithms &#9702; Supervised vs. Unsupervised Learning
 <br> 
 <br><br>
 [![Amata's github stats](https://github-readme-stats.vercel.app/api?username=AmataTul)](https://github.com/anuraghazra/github-readme-stats)
