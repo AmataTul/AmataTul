@@ -21,8 +21,8 @@
 :sparkles: Software: <br>
 
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-&#9702; Numpy &#9702; Pandas &#9702; IPython &#9702; Matplotlib &#9702; Scikit-learn &#9702; Microsoft PowerBi &#9702; RapidMiner Studio &#9702; SSMS &#9702; PostgreSQL &#9702; Tableau &#9702; Excel (VLOOKUP, Pivot table) &#9702; Spreadsheet &#9702; Firebase
-&#9702; RStudio &#9702; Git &#9702; GitHub &#9702; Markdown &#9702; AWS &#9702; Cloud9 IDE &#9702; Cloud Databases &#9702; IBM Watson Studio &#9702; JupyterLab &#9702; Jupyter Notebook &#9702; Google Analytics
+&#9702; Python (Numpy, Pandas, IPython, Matplotlib, Scikit-learn) &#9702; Microsoft PowerBi &#9702; RapidMiner Studio &#9702; SQL Server Management Studio (SSMS) &#9702; PostgreSQL &#9702; Tableau &#9702; Excel (VLOOKUP, Pivot table) &#9702; Spreadsheet &#9702; Firebase (Real-Time Database & Firestore)
+&#9702; R (RStudio) &#9702; GitHub (Git, Markdown) &#9702; AWS (Cloud9 IDE) &#9702; Cloud Databases &#9702; IBM Watson Studio &#9702; Jupyter Notebook (JupyterLab) &#9702; Google Analytics
 
 :juggling_person: Skills: <br>
 
