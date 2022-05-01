@@ -9,7 +9,7 @@
 - 💡  I like to explore new technologies and develop data analytics solutions.
 - :telescope: I'm currently working on building my own Portfolio Website.
 - ✍️  In my free time, I try to learn new skills in Data Analysis and new ways to utilize them through programming languages.
-- 👀 I’m interested in Business Analytics, Data Analytics and SQL Administration.
+- 👀 I’m interested in Business Analytics, Data Analytics, and SQL Administration.
 - 📫 You can shoot me an email at usuamata@gmail.com! I'll try to respond as soon as I can.
 
 🛠  Programming languages : 
