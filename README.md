@@ -15,7 +15,7 @@
 🛠  Programming languages : 
 <br>
 
-&#9702; SQL &#9702; NoSQL &#9702; Python &#9702; R (beginner: statistics) &#9702; HTML &#9702; CSS &#9702; JavaScript (beginner)
+&#9702; SQL &#9702; NoSQL &#9702; Python &#9702; HTML &#9702; CSS &#9702
 <br>
 
 :sparkles: Software: <br>
