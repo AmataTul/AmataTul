@@ -7,10 +7,7 @@
 - :smile: Pronouns: she/her
 -  🎓 I'm currently studying Management Information Systems at Utah State University with an emphasis on Data Analytics.
 - 💡  I like to explore new technologies and develop data analytics solutions.
-- :telescope: I'm currently working on building my own Portfolio Website.
-- ✍️  In my free time, I try to learn new skills in Data Analysis and new ways to utilize them through programming languages.
-- 👀 I’m interested in Business Analytics, Data Analytics, and SQL Administration.
-- 📫 You can shoot me an email at usuamata@gmail.com! I'll try to respond as soon as I can.
+- ✍️  In my free time, I try to enhance my data analysis and problem-solving skills.
 
 🛠  Programming languages : 
 <br>
