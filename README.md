@@ -5,7 +5,7 @@
 
 ### About me 
 - :smile: Pronouns: she/her
--  🎓 I'm currently studying Management Information Systems at Utah State University with an emphasis on Data Analytics.
+-  🎓 I'm currently studying Management Information Systems at Utah State University.
 - 💡  I like to explore new technologies and develop data analytics solutions.
 - ✍️  In my free time, I try to enhance my data analysis and problem-solving skills.
 
